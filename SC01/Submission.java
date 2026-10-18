@@ -1,3 +1,4 @@
+package SC01;
 public class Submission {
     private Student student;
     private int attemptNo;

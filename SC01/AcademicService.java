@@ -1,3 +1,4 @@
+package SC01;
 public class AcademicService {
     
     public void addCourseToDepartment(Department department, Course course){

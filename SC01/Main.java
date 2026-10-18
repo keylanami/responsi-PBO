@@ -1,3 +1,4 @@
+package SC01;
 import java.util.List;
 
 public class Main {
@@ -47,7 +48,7 @@ public class Main {
 
 
 
-        
+
         System.out.println("Department " + department.getName());
         System.out.println("Jumlah course " + department.getCourses().size());
         System.out.println("Nama student: " + keyla.getName());
